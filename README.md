@@ -1,2 +1,4 @@
-# Number-Guessing-Game-
-A Number Guessing game using object oriented programming with Python which can allow the user to select either single and multiplayer modes. At the end of both matches, the scores, winners and number of turns are saved into different text.files and are used for future reference when game is rebooted.
+# Number-Guessing-Game
+A Number Guessing game using object oriented programming with Python which can allow the user to play a game where the goal is to guess the random number generated in the least amount of turns. They can select either single player mode and multiplayer modes (versing another person). At the end of both matches, the scores, winners and number of turns are saved into different .txt files and are saved for future reference when game is played again.
+The scores, winners and number of turns in single player game mode will be saved in soloscore.txt and will reappear in the top of the game when the code is rerun.
+The scores, winners and number of turns in single player game mode will be saved in score.txt and will reappear in the top of the game when the code is rerun.
